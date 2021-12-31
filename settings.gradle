@@ -1,0 +1,2 @@
+include ':unityLibrary'
+project(':unityLibrary').projectDir=new File('..\\ARMeasurement\\androidBuild\\unityLibrary')
